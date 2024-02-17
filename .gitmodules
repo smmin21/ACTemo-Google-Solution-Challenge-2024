@@ -1,3 +1,6 @@
 [submodule "actemo-server"]
 	path = actemo-server
 	url = https://github.com/smmin21/ACTemo-server.git
+[submodule "actemo-flutter"]
+	path = actemo-flutter
+	url = https://github.com/e6d1fe/ActEmo-flutter.git
