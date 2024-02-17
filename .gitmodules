@@ -1,0 +1,3 @@
+[submodule "actemo-server"]
+	path = actemo-server
+	url = https://github.com/smmin21/ACTemo-server.git
