@@ -92,7 +92,7 @@ These features work in tandem to provide users with a comprehensive platform for
 
 | Screen                                                                                                                                         | Guide                                                                                                                                                                                                                                                                 |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/smmin21/ACTemo-Google-Solution-Challenge-2024/assets/108079454/766b3d85-f486-4645-a693-dbb6e2ffe514" height="650"> | This our main screen. <br> Here are the options you can choose from: <br> 1. Start your emotion identification & expression practice (`Start now` button / `Identify` button) <br> 2. Go to the Archive and see the emotion cards you've collected (`Archive` button) |
+| <img src="https://github.com/smmin21/ACTemo-Google-Solution-Challenge-2024/assets/108079454/766b3d85-f486-4645-a693-dbb6e2ffe514" height="650"> | This our main screen. <br> Here are the options you can choose from: <br> 1. Start your emotion identification & expression practice <br> (`Start now` button / `Identify` button) <br> 2. Go to the Archive and see the emotion cards you've collected <br> (`Archive` button) |
 
 ### Instructions
 
@@ -110,7 +110,7 @@ These features work in tandem to provide users with a comprehensive platform for
 
 | Screen                                                                                                                                         | Guide                                                                                                                                                                                                                                                                       |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/smmin21/ACTemo-Google-Solution-Challenge-2024/assets/108079454/53c03d09-e461-4c6c-bec0-4aade26e8aa2" height="650"> | Now it's time for you to focus on the signals your body has been sending you today. <br> Check all of the boxes that are applicable. <br> If you're having a hard time recognizing the messages from your body, refer to the tips you can check out in the combo box above. |
+| <img src="https://github.com/smmin21/ACTemo-Google-Solution-Challenge-2024/assets/108079454/53c03d09-e461-4c6c-bec0-4aade26e8aa2" height="650"> | Now it's time for you to focus on the signals your body has been sending you today. <br> Check all of the boxes that are applicable. <br> If you're having a hard time recognizing the messages from your body, <br> refer to the tips you can check out in the combo box above. |
 
 ### Emotional Board
 
@@ -128,7 +128,7 @@ These features work in tandem to provide users with a comprehensive platform for
 
 | Screen                                                                                                                                         | Guide                                                                                                                                                         |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/smmin21/ACTemo-Google-Solution-Challenge-2024/assets/108079454/b9b6ad00-12a5-4037-80eb-c78dc05b9702" height="650"> | It's your turn! <br> Based on what you just heard in the previous step, press the record button and start reading the script with as much emotion as you can. |
+| <img src="https://github.com/smmin21/ACTemo-Google-Solution-Challenge-2024/assets/108079454/b9b6ad00-12a5-4037-80eb-c78dc05b9702" height="650"> | It's your turn! <br> Based on what you just heard in the previous step, <br> press the record button and start reading the script with as much emotion as you can. |
 
 ### Achievement Grade
 
@@ -140,7 +140,7 @@ These features work in tandem to provide users with a comprehensive platform for
 
 | Screen                                                                                                                                         | Guide                                                                                                                        |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/smmin21/ACTemo-Google-Solution-Challenge-2024/assets/108079454/359d95b3-a343-4dc5-9ab1-00c8c38e1fa7" height="650"> | After you complete today's practice, you can read various tips on topics such as how to identify your own emotions and more. |
+| <img src="https://github.com/smmin21/ACTemo-Google-Solution-Challenge-2024/assets/108079454/359d95b3-a343-4dc5-9ab1-00c8c38e1fa7" height="650"> | After you complete today's practice, you can read various tips on topics <br> such as how to identify your own emotions and more. |
 
 ### Emotion Card
 
