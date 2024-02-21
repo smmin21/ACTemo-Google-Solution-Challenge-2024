@@ -128,7 +128,7 @@ These features work in tandem to provide users with a comprehensive platform for
 
 | Screen                                                                                                                                         | Guide                                                                                                                                                                            |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/smmin21/ACTemo-Google-Solution-Challenge-2024/assets/108079454/b9b6ad00-12a5-4037-80eb-c78dc05b9702"  width="300"> | It's your turn! <br> <br> Based on what you just heard in the previous step, <br> press the record button and start reading the script  <br> with as much emotion as you can. |
+| <img src="https://github.com/smmin21/ACTemo-Google-Solution-Challenge-2024/assets/108079454/b9b6ad00-12a5-4037-80eb-c78dc05b9702"  width="300"> | It's your turn! <br> <br> Based on what you just heard in the previous step, <br> press the record button and start reading the script with as much emotion as you can. |
 
 ### Achievement Grade
 
