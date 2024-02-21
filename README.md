@@ -80,25 +80,25 @@ These features work in tandem to provide users with a comprehensive platform for
 
 | Screen                                                                                                                                         | Guide                                                             |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
-| <img src="https://github.com/smmin21/ACTemo-Google-Solution-Challenge-2024/assets/108079454/124707d9-80d5-4c52-99b8-98078aa21dcd" width="300"> | Read about what our service can provide and has in store for you. |
+| <img src="https://github.com/smmin21/ACTemo-Google-Solution-Challenge-2024/assets/108079454/124707d9-80d5-4c52-99b8-98078aa21dcd" width="300"> | Read about what our service can provide and has in store for you.  |
 
 ### Log in / Get Registered
 
 | Screen                                                                                                                                         | Guide                                                                                         |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/smmin21/ACTemo-Google-Solution-Challenge-2024/assets/108079454/d093d0d5-fec6-4059-8e96-4e5105bca74c" width="300"> | You can either log in with an existing account or get registered to start using our services. |
+| <img src="https://github.com/smmin21/ACTemo-Google-Solution-Challenge-2024/assets/108079454/d093d0d5-fec6-4059-8e96-4e5105bca74c" width="300"> | You can either log in with an existing account or get registered to start using our services.  |
 
 ### Main Screen
 
 | Screen                                                                                                                                         | Guide                                                                                                                                                                                                                                                                 |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/smmin21/ACTemo-Google-Solution-Challenge-2024/assets/108079454/766b3d85-f486-4645-a693-dbb6e2ffe514" width="300"> | This our main screen. <br> <br> Here are the options you can choose from: <br> 1. Start your emotion identification & expression practice <br> (`Start now` button / `Identify` button) <br> <br> 2. Go to the Archive and see the emotion cards you've collected <br> (`Archive` button) |
+| <img src="https://github.com/smmin21/ACTemo-Google-Solution-Challenge-2024/assets/108079454/766b3d85-f486-4645-a693-dbb6e2ffe514" width="300"> | This our main screen.  <br> <br> Here are the options you can choose from:  <br> 1. Start your emotion identification & expression practice  <br> (`Start now` button / `Identify` button)  <br> <br> 2. Go to the Archive and see the emotion cards you've collected  <br> (`Archive` button) |
 
 ### Instructions
 
 | Screen                                                                                                                                         | Guide                                                                                                                                                                                             |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/smmin21/ACTemo-Google-Solution-Challenge-2024/assets/108079454/a602738d-b7ec-426b-acd1-b0bf2a7048aa"  width="300"> | These are the instructions that we recommend you <br> keep in mind while using our services. <br> <br> Pressing the `Yes, continue` button after reading is required in order to navigate to the next page. |
+| <img src="https://github.com/smmin21/ACTemo-Google-Solution-Challenge-2024/assets/108079454/a602738d-b7ec-426b-acd1-b0bf2a7048aa"  width="300"> | These are the instructions that we recommend you  <br> keep in mind while using our services.  <br> <br> Pressing the `Yes, continue` button after reading is required <br> in order to navigate to the next page. |
 
 ### Step 1: Valence Diary
 
@@ -134,7 +134,7 @@ These features work in tandem to provide users with a comprehensive platform for
 
 | Screen                                                                                                                                         | Guide                                                                                                                                                                                                                                                                                                                                                         |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/smmin21/ACTemo-Google-Solution-Challenge-2024/assets/108079454/72d59f12-c64e-4b9a-b29b-0d367df87b1b"  width="300"> | When you press the `Confirm` button, <br> our model analyzes your acting and gives you an achievement grade based on how well you performed. <br> <br> If you get a C, you need to try again. <br> <br> If you get a B, you can either try again or complete the practice today. <br> <br> If you get an A, you will be led to complete the process and proceed to the next step. |
+| <img src="https://github.com/smmin21/ACTemo-Google-Solution-Challenge-2024/assets/108079454/72d59f12-c64e-4b9a-b29b-0d367df87b1b"  width="300"> | When you press the `Confirm` button, <br> our model analyzes your acting and gives you an achievement grade  <br> based on how well you performed. <br> <br> If you get a C, you need to try again. <br> <br> If you get a B, you can either try again or complete the practice today. <br> <br> If you get an A, you will be led to complete the process and proceed to the next step. |
 
 ### Tips
 
@@ -152,7 +152,7 @@ These features work in tandem to provide users with a comprehensive platform for
 
 | Screen                                                                                                                                         | Guide                                                                                                                                                                                                                                                                                  |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/smmin21/ACTemo-Google-Solution-Challenge-2024/assets/108079454/971d8ea7-592b-493c-ba8b-174ed5d07d48" width="300"> | When you access the `Archive` page, <br> you can check the emotions that you've completed practicing. <br> <br> If you want to go straight to practicing a different kind of emotion or practice the emotion you've already achieved, <br> you can click on the card and press the `Practice` button. |
+| <img src="https://github.com/smmin21/ACTemo-Google-Solution-Challenge-2024/assets/108079454/971d8ea7-592b-493c-ba8b-174ed5d07d48" width="300"> | When you access the `Archive` page, <br> you can check the emotions that you've completed practicing. <br> <br> If you want to go straight to practicing a different kind of emotion or  <br> practice the emotion you've already achieved, <br> you can click on the card and press the `Practice` button. |
 
 <br>
 
