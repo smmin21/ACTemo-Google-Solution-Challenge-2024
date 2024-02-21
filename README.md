@@ -19,6 +19,13 @@
   - [Instructions](#instructions)
   - [Step 1: Valence Diary](#step-1-valence-diary)
   - [Step 2: Self Arousal Check](#step-2-self-arousal-check)
+  - [Emotional Board](#emotional-board)
+  - [Listen to the AI Voice Actor](#listen-to-the-ai-voice-actor)
+  - [Record Your Own Acting](#record-your-own-acting)
+  - [Achievement Grade](#achievement-grade)
+  - [Tips](#tips)
+  - [Emotion Card](#emotion-card)
+  - [Archive](#archive)
 - [🛠 Project Architecture](#-project-architecture)
 - [🔗 Link to Other Parts](#-link-to-other-parts)
 - [🤝 Contributors](#-contributors)
@@ -83,27 +90,69 @@ These features work in tandem to provide users with a comprehensive platform for
 
 ### Main Screen
 
-| Screen                                                                                                                                         | Guide                                                                                                                                                                                                                                                            |
-| ---------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/smmin21/ACTemo-Google-Solution-Challenge-2024/assets/108079454/766b3d85-f486-4645-a693-dbb6e2ffe514" width="300"> | This our main screen. Here are the options you can choose from: <br> 1. Start your emotion identification & expression practice ("Start now" button / "Identify" button) <br> 2. Go to the Archive and see the emotion cards you've collected ("Archive" button) |
+| Screen                                                                                                                                         | Guide                                                                                                                                                                                                                                                                 |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://github.com/smmin21/ACTemo-Google-Solution-Challenge-2024/assets/108079454/766b3d85-f486-4645-a693-dbb6e2ffe514" width="300"> | This our main screen. <br> Here are the options you can choose from: <br> 1. Start your emotion identification & expression practice (`Start now` button / `Identify` button) <br> 2. Go to the Archive and see the emotion cards you've collected (`Archive` button) |
 
 ### Instructions
 
-| Screen                                                                                                                                         | Guide                                                                                                                                                                                        |
-| ---------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/smmin21/ACTemo-Google-Solution-Challenge-2024/assets/108079454/a602738d-b7ec-426b-acd1-b0bf2a7048aa" width="300"> | These are the instructions that we recommend you keep in mind while using our services. Pressing the "Yes, continue" button after reading is required in order to navigate to the next page. |
+| Screen                                                                                                                                         | Guide                                                                                                                                                                                             |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://github.com/smmin21/ACTemo-Google-Solution-Challenge-2024/assets/108079454/a602738d-b7ec-426b-acd1-b0bf2a7048aa" width="300"> | These are the instructions that we recommend you keep in mind while using our services. <br> Pressing the "Yes, continue" button after reading is required in order to navigate to the next page. |
 
 ### Step 1: Valence Diary
 
-| Screen                                                                                                                                         | Guide                                                                                                                                                                                                                                                                                      |
-| ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <img src="https://github.com/smmin21/ACTemo-Google-Solution-Challenge-2024/assets/108079454/3cad7a71-b355-4d64-b50e-3629261e0569" width="300"> | Are you having difficulty identifying what kind of emotion you've felt throughout the day? Write down your own account of what happened today, and Gemini will assess the degree of valence in your writing. <br> Usage of overly violent expressions can prompt you to revise your entry. |
+| Screen                                                                                                                                         | Guide                                                                                                                                                                                                                                                                                           |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://github.com/smmin21/ACTemo-Google-Solution-Challenge-2024/assets/108079454/3cad7a71-b355-4d64-b50e-3629261e0569" width="300"> | Are you having difficulty identifying what kind of emotion you've felt throughout the day? <br> Write down your own account of what happened today, and Gemini will assess the degree of valence in your writing. <br> Usage of overly violent expressions can prompt you to revise your entry. |
 
 ### Step 2: Self Arousal Check
 
-| Screen                                                                                                                                         | Guide                                                                                                                                                                                                                                                                  |
-| ---------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/smmin21/ACTemo-Google-Solution-Challenge-2024/assets/108079454/53c03d09-e461-4c6c-bec0-4aade26e8aa2" width="300"> | Now it's time for you to focus on the signals your body has been sending you today. Check all of the boxes that are applicable. <br> If you're having a hard time recognizing the messages from your body, refer to the tips you can check out in the combo box above. |
+| Screen                                                                                                                                         | Guide                                                                                                                                                                                                                                                                       |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://github.com/smmin21/ACTemo-Google-Solution-Challenge-2024/assets/108079454/53c03d09-e461-4c6c-bec0-4aade26e8aa2" width="300"> | Now it's time for you to focus on the signals your body has been sending you today. <br> Check all of the boxes that are applicable. <br> If you're having a hard time recognizing the messages from your body, refer to the tips you can check out in the combo box above. |
+
+### Emotional Board
+
+| Screen                                                                                                                                         | Guide                                                                                                                                                                                                                                                                                                                                   |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://github.com/smmin21/ACTemo-Google-Solution-Challenge-2024/assets/108079454/f5758725-fb08-4d00-9f48-c2d058845cb8" width="300"> | Based on your input from the previous two steps, we provide you a list of emotions that you may have felt. <br> If you click on the arrow on the right of each list item, you can check a card containing information about that specific emotion. <br> It is required that you select one of the emotions to proceed to the next step. |
+
+### Listen to the AI Voice Actor
+
+| Screen                                                                                                                                         | Guide                                                                                                                                                                                                                 |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://github.com/smmin21/ACTemo-Google-Solution-Challenge-2024/assets/108079454/248a6450-b57e-4f1a-9472-40e25ebde372" width="300"> | Now it's time for you to practice expressing the emotion you selected! <br> We provide you with a script that well expresses the selected emotion. <br> Listen to the voice of the Ai voice actor reading the script. |
+
+### Record Your Own Acting
+
+| Screen                                                                                                                                         | Guide                                                                                                                                                         |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://github.com/smmin21/ACTemo-Google-Solution-Challenge-2024/assets/108079454/b9b6ad00-12a5-4037-80eb-c78dc05b9702" width="300"> | It's your turn! <br> Based on what you just heard in the previous step, press the record button and start reading the script with as much emotion as you can. |
+
+### Achievement Grade
+
+| Screen                                                                                                                                         | Guide                                                                                                                                                                                                                                                                                                                                                         |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://github.com/smmin21/ACTemo-Google-Solution-Challenge-2024/assets/108079454/72d59f12-c64e-4b9a-b29b-0d367df87b1b" width="300"> | When you press the `Confirm` button, our model analyzes your acting and gives you an achievement grade based on how well you performed. <br> If you get a C, you need to try again. <br> If you get a B, you can either try again or complete the practice today. <br> If you get an A, you will be led to complete the process and proceed to the next step. |
+
+### Tips
+
+| Screen                                                                                                                                         | Guide                                                                                                                        |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://github.com/smmin21/ACTemo-Google-Solution-Challenge-2024/assets/108079454/359d95b3-a343-4dc5-9ab1-00c8c38e1fa7" width="300"> | After you complete today's practice, you can read various tips on topics such as how to identify your own emotions and more. |
+
+### Emotion Card
+
+| Screen                                                                                                                                         | Guide                                                                                                                                           |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://github.com/smmin21/ACTemo-Google-Solution-Challenge-2024/assets/108079454/f6cc70fd-19d0-4c3e-b9ba-8f6e160bda4d" width="300"> | Check out the emotion card you earned today! <br> When you click the card, it flips over and provides you with information on the said emotion. |
+
+### Archive
+
+| Screen                                                                                                                                         | Guide                                                                                                                                                                                                                                                                                  |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://github.com/smmin21/ACTemo-Google-Solution-Challenge-2024/assets/108079454/971d8ea7-592b-493c-ba8b-174ed5d07d48" width="300"> | When you access the `Archive` page, you can check the emotions that you've completed practicing. <br> If you want to go straight to practicing a different kind of emotion or practice the emotion you've already achieved, you can click on the card and press the `Practice` button. |
 
 <br>
 
