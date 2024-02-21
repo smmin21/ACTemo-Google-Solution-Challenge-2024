@@ -86,7 +86,7 @@ These features work in tandem to provide users with a comprehensive platform for
 
 | Screen                                                                                                                                         | Guide                                                                                         |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/smmin21/ACTemo-Google-Solution-Challenge-2024/assets/108079454/d093d0d5-fec6-4059-8e96-4e5105bca74c" width="300"> | You can either log in with an existing account or get registered to start using our services.  |
+| <img src="https://github.com/smmin21/ACTemo-Google-Solution-Challenge-2024/assets/108079454/d093d0d5-fec6-4059-8e96-4e5105bca74c" width="300"> | You can either log in with an existing account  <br>or get registered to start using our services.  |
 
 ### Main Screen
 
@@ -128,7 +128,7 @@ These features work in tandem to provide users with a comprehensive platform for
 
 | Screen                                                                                                                                         | Guide                                                                                                                                                         |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/smmin21/ACTemo-Google-Solution-Challenge-2024/assets/108079454/b9b6ad00-12a5-4037-80eb-c78dc05b9702"  width="300"> | It's your turn! <br> <br> Based on what you just heard in the previous step, <br> press the record button and start reading the script with as much emotion as you can. |
+| <img src="https://github.com/smmin21/ACTemo-Google-Solution-Challenge-2024/assets/108079454/b9b6ad00-12a5-4037-80eb-c78dc05b9702"  width="300"> | It's your turn! <br> <br> Based on what you just heard in the previous step, <br> press the record button and start reading the script  <br> with as much emotion as you can. |
 
 ### Achievement Grade
 
@@ -146,7 +146,7 @@ These features work in tandem to provide users with a comprehensive platform for
 
 | Screen                                                                                                                                         | Guide                                                                                                                                              |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/smmin21/ACTemo-Google-Solution-Challenge-2024/assets/108079454/f6cc70fd-19d0-4c3e-b9ba-8f6e160bda4d"  width="300"> | Check out the emotion card you've earned today! <br> <br> When you click the card, <br> it flips over and provides you with information on the said emotion. |
+| <img src="https://github.com/smmin21/ACTemo-Google-Solution-Challenge-2024/assets/108079454/f6cc70fd-19d0-4c3e-b9ba-8f6e160bda4d"  width="300"> | Check out the emotion card you've earned today! <br> <br> When you click the card, it flips over and provides you  <br> with information on the said emotion. |
 
 ### Archive
 
