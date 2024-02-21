@@ -122,13 +122,13 @@ These features work in tandem to provide users with a comprehensive platform for
 
 | Screen                                                                                                                                         | Guide                                                                                                                                                                                                                 |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/smmin21/ACTemo-Google-Solution-Challenge-2024/assets/108079454/248a6450-b57e-4f1a-9472-40e25ebde372"  width="300"> | Now it's time for you to practice expressing the emotion you selected! <br> We provide you with a script that well expresses the selected emotion. <br> Listen to the voice of the Ai voice actor reading the script. |
+| <img src="https://github.com/smmin21/ACTemo-Google-Solution-Challenge-2024/assets/108079454/248a6450-b57e-4f1a-9472-40e25ebde372"  width="300"> | Now it's time for you to practice expressing the emotion you selected!  <br> <br> We provide you with a script that well expresses the selected emotion. <br> <br> Listen to the voice of the Ai voice actor reading the script. |
 
 ### Record Your Own Acting
 
 | Screen                                                                                                                                         | Guide                                                                                                                                                         |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/smmin21/ACTemo-Google-Solution-Challenge-2024/assets/108079454/b9b6ad00-12a5-4037-80eb-c78dc05b9702"  width="300"> | It's your turn! <br> Based on what you just heard in the previous step, <br> press the record button and start reading the script with as much emotion as you can. |
+| <img src="https://github.com/smmin21/ACTemo-Google-Solution-Challenge-2024/assets/108079454/b9b6ad00-12a5-4037-80eb-c78dc05b9702"  width="300"> | It's your turn! <br> <br> Based on what you just heard in the previous step, <br> press the record button and start reading the script with as much emotion as you can. |
 
 ### Achievement Grade
 
@@ -140,13 +140,13 @@ These features work in tandem to provide users with a comprehensive platform for
 
 | Screen                                                                                                                                         | Guide                                                                                                                        |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/smmin21/ACTemo-Google-Solution-Challenge-2024/assets/108079454/359d95b3-a343-4dc5-9ab1-00c8c38e1fa7" width="300"> | After you complete today's practice, you can read various tips on topics <br> such as how to identify your own emotions and more. |
+| <img src="https://github.com/smmin21/ACTemo-Google-Solution-Challenge-2024/assets/108079454/359d95b3-a343-4dc5-9ab1-00c8c38e1fa7" width="300"> | After you complete today's practice, <br> you can read various tips on topics <br> such as how to identify your own emotions and more. |
 
 ### Emotion Card
 
 | Screen                                                                                                                                         | Guide                                                                                                                                              |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/smmin21/ACTemo-Google-Solution-Challenge-2024/assets/108079454/f6cc70fd-19d0-4c3e-b9ba-8f6e160bda4d"  width="300"> | Check out the emotion card you've earned today! <br> <br> When you click the card, it flips over and provides you with information on the said emotion. |
+| <img src="https://github.com/smmin21/ACTemo-Google-Solution-Challenge-2024/assets/108079454/f6cc70fd-19d0-4c3e-b9ba-8f6e160bda4d"  width="300"> | Check out the emotion card you've earned today! <br> <br> When you click the card, <br> it flips over and provides you with information on the said emotion. |
 
 ### Archive
 
