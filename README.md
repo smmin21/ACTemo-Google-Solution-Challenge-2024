@@ -13,6 +13,12 @@
   - [`2` ACTion](#2-action)
 - [🚀 Getting Started](#-getting-started)
 - [🛳 User Guide](#-user-guide)
+  - [Walkthrough](#walkthrough)
+  - [Log in / Get Registered](#log-in--get-registered)
+  - [Main Screen](#main-screen)
+  - [Instructions](#instructions)
+  - [Step 1: Valence Diary](#step-1-valence-diary)
+  - [Step 2: Self Arousal Check](#step-2-self-arousal-check)
 - [🛠 Project Architecture](#-project-architecture)
 - [🔗 Link to Other Parts](#-link-to-other-parts)
 - [🤝 Contributors](#-contributors)
@@ -54,9 +60,50 @@ These features work in tandem to provide users with a comprehensive platform for
 
 ## 🚀 Getting Started
 
+**Our application requires Internet connection and microphone permission to run properly.**
+
+1. Download our APK file here: [Download APK](https://drive.google.com/file/d/1pwkNZ1bulcaN29_xPK10mmB-mE71A_07/view?usp=sharing)
+2. Run the downloaded file on your phone! ✨
+
 <br>
 
 ## 🛳 User Guide
+
+### Walkthrough
+
+| Screen                                                                                                                                         | Guide                                                             |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| <img src="https://github.com/smmin21/ACTemo-Google-Solution-Challenge-2024/assets/108079454/124707d9-80d5-4c52-99b8-98078aa21dcd" width="300"> | Read about what our service can provide and has in store for you. |
+
+### Log in / Get Registered
+
+| Screen                                                                                                                                         | Guide                                                                                         |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| <img src="https://github.com/smmin21/ACTemo-Google-Solution-Challenge-2024/assets/108079454/d093d0d5-fec6-4059-8e96-4e5105bca74c" width="300"> | You can either log in with an existing account or get registered to start using our services. |
+
+### Main Screen
+
+| Screen                                                                                                                                         | Guide                                                                                                                                                                                                                                                            |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://github.com/smmin21/ACTemo-Google-Solution-Challenge-2024/assets/108079454/766b3d85-f486-4645-a693-dbb6e2ffe514" width="300"> | This our main screen. Here are the options you can choose from: <br> 1. Start your emotion identification & expression practice ("Start now" button / "Identify" button) <br> 2. Go to the Archive and see the emotion cards you've collected ("Archive" button) |
+
+### Instructions
+
+| Screen                                                                                                                                         | Guide                                                                                                                                                                                        |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://github.com/smmin21/ACTemo-Google-Solution-Challenge-2024/assets/108079454/a602738d-b7ec-426b-acd1-b0bf2a7048aa" width="300"> | These are the instructions that we recommend you keep in mind while using our services. Pressing the "Yes, continue" button after reading is required in order to navigate to the next page. |
+
+### Step 1: Valence Diary
+
+| Screen                                                                                                                                         | Guide                                                                                                                                                                                                                                                                                      |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <img src="https://github.com/smmin21/ACTemo-Google-Solution-Challenge-2024/assets/108079454/3cad7a71-b355-4d64-b50e-3629261e0569" width="300"> | Are you having difficulty identifying what kind of emotion you've felt throughout the day? Write down your own account of what happened today, and Gemini will assess the degree of valence in your writing. <br> Usage of overly violent expressions can prompt you to revise your entry. |
+
+### Step 2: Self Arousal Check
+
+| Screen                                                                                                                                         | Guide                                                                                                                                                                                                                                                                  |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://github.com/smmin21/ACTemo-Google-Solution-Challenge-2024/assets/108079454/53c03d09-e461-4c6c-bec0-4aade26e8aa2" width="300"> | Now it's time for you to focus on the signals your body has been sending you today. Check all of the boxes that are applicable. <br> If you're having a hard time recognizing the messages from your body, refer to the tips you can check out in the combo box above. |
 
 <br>
 
