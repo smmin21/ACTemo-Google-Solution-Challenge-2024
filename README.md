@@ -98,7 +98,7 @@ These features work in tandem to provide users with a comprehensive platform for
 
 | Screen                                                                                                                                         | Guide                                                                                                                                                                                             |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/smmin21/ACTemo-Google-Solution-Challenge-2024/assets/108079454/a602738d-b7ec-426b-acd1-b0bf2a7048aa" width="300"> | These are the instructions that we recommend you keep in mind while using our services. <br> Pressing the "Yes, continue" button after reading is required in order to navigate to the next page. |
+| <img src="https://github.com/smmin21/ACTemo-Google-Solution-Challenge-2024/assets/108079454/a602738d-b7ec-426b-acd1-b0bf2a7048aa" width="300"> | These are the instructions that we recommend you keep in mind while using our services. <br> Pressing the `Yes, continue` button after reading is required in order to navigate to the next page. |
 
 ### Step 1: Valence Diary
 
@@ -144,9 +144,9 @@ These features work in tandem to provide users with a comprehensive platform for
 
 ### Emotion Card
 
-| Screen                                                                                                                                         | Guide                                                                                                                                           |
-| ---------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/smmin21/ACTemo-Google-Solution-Challenge-2024/assets/108079454/f6cc70fd-19d0-4c3e-b9ba-8f6e160bda4d" width="300"> | Check out the emotion card you earned today! <br> When you click the card, it flips over and provides you with information on the said emotion. |
+| Screen                                                                                                                                         | Guide                                                                                                                                              |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://github.com/smmin21/ACTemo-Google-Solution-Challenge-2024/assets/108079454/f6cc70fd-19d0-4c3e-b9ba-8f6e160bda4d" width="300"> | Check out the emotion card you've earned today! <br> When you click the card, it flips over and provides you with information on the said emotion. |
 
 ### Archive
 
