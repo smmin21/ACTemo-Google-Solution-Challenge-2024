@@ -83,7 +83,7 @@ These features work in tandem to provide users with a comprehensive platform for
 | <img src="https://github.com/smmin21/ACTemo-Google-Solution-Challenge-2024/assets/108079454/124707d9-80d5-4c52-99b8-98078aa21dcd" width="300"/> | Read about what our service can provide and has in store for you.|
 ### Log in / Get Registered
 
-| Screen                                                                                                                                         | Guide                                                                                         |
+| Screen                                                                                                                                         | Guide                                                             |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
 | <img src="https://github.com/smmin21/ACTemo-Google-Solution-Challenge-2024/assets/108079454/d093d0d5-fec6-4059-8e96-4e5105bca74c" width="300"/> | You can either log in with an existing account or get registered to start using our services.<br>|
 ### Main Screen
