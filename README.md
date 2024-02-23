@@ -86,7 +86,7 @@ These features work in tandem to provide users with a comprehensive platform for
 
 | Screen                                                                                                                                         | Guide                                                                                         |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/smmin21/ACTemo-Google-Solution-Challenge-2024/assets/108079454/d093d0d5-fec6-4059-8e96-4e5105bca74c" width="200"> | You can either log in with an existing account or get registered to start using our services. |
+| <img src="https://github.com/smmin21/ACTemo-Google-Solution-Challenge-2024/assets/108079454/d093d0d5-fec6-4059-8e96-4e5105bca74c" width="200"> | You can either log in with an existing account <br> or get registered to start using our services. |
 
 ### Main Screen
 
@@ -128,13 +128,13 @@ These features work in tandem to provide users with a comprehensive platform for
 
 | Screen                                                                                                                                         | Guide                                                                                                                                                                            |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/smmin21/ACTemo-Google-Solution-Challenge-2024/assets/108079454/b9b6ad00-12a5-4037-80eb-c78dc05b9702"  width="200"> | It's your turn! <br> <br> Based on what you just heard in the previous step, <br> press the record button and start reading the script with as much emotion as you can. |
+| <img src="https://github.com/smmin21/ACTemo-Google-Solution-Challenge-2024/assets/108079454/b9b6ad00-12a5-4037-80eb-c78dc05b9702"  width="200"> | It's your turn! <br> <br> Based on what you just heard in the previous step, <br> press the record button and start reading the script <br> with as much emotion as you can. |
 
 ### Achievement Grade
 
 | Screen                                                                                                                                         | Guide                                                                                                                                                                                                                                                                                                                                                         |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/smmin21/ACTemo-Google-Solution-Challenge-2024/assets/108079454/72d59f12-c64e-4b9a-b29b-0d367df87b1b"  width="200"> | When you press the `Confirm` button, <br> our model analyzes your acting and gives you an achievement grade  <br> based on how well you performed. <br> <br> If you get a C, you need to try again. <br> <br> If you get a B, you can either try again or complete the practice today. <br> <br> If you get an A, you will be led to complete the process and proceed to the next step. |
+| <img src="https://github.com/smmin21/ACTemo-Google-Solution-Challenge-2024/assets/108079454/72d59f12-c64e-4b9a-b29b-0d367df87b1b"  width="200"> | When you press the `Confirm` button, <br> our model analyzes your acting and gives you an achievement grade  <br> based on how well you performed. <br> <br> If you get a C, you need to try again. <br> <br> If you get a B, you can either try again or complete the practice today. <br> <br> If you get an A, you will be led to complete the process <br> and proceed to the next step. |
 
 ### Tips
 
