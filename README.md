@@ -39,7 +39,7 @@
 
 Our problem statement is that modern people struggle to identify and express emotions, which can be developed into Alexithymia. _Alexithymia_ is the inability to identify and express or describe one's feelings accurately, leading to challenges in forming and maintaining relationships and making decisions. This emotional disconnect can result in mental health issues, maladaptive coping mechanisms, and a limited capacity for self-reflection and personal growth, impacting overall well-being and quality of life. According to research, about 10% of the general population experienced significant alexithymic traits. Despite its prevalence, Alexithymia is frequently misunderstood and often not recognized in clinical settings.
 
-### Our Target SDG Goals
+### Our Target SDG Goals 🎯
 <p align="center">
   <img src="https://github.com/smmin21/ACTemo-Google-Solution-Challenge-2024/assets/108079454/40cc149c-f559-47ff-992f-1428b81bc2ea" width="200"/>
   <img src="https://github.com/smmin21/ACTemo-Google-Solution-Challenge-2024/assets/108079454/cfede1db-999a-4f31-8e45-7cbc2264a29b" width="200"/>
