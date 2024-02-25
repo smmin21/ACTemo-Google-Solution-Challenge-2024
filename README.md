@@ -6,30 +6,30 @@
 <summary>Table of Contents</summary>
 
 - [2024 Google Solution Challenge : ACTemo](#2024-google-solution-challenge--actemo)
-- [💡 Introduction](#-introduction)
-  - [Our Target SDG Goals](#our-target-sdg-goals)
-- [🤖 Demo Video](#-demo-video)
-- [🔮 Features](#-features)
-  - [`1` READemo](#1-reademo)
-  - [`2` ACTion](#2-action)
-- [🚀 Getting Started](#-getting-started)
-- [🛳 User Guide](#-user-guide)
-  - [Walkthrough](#walkthrough)
-  - [Log in / Get Registered](#log-in--get-registered)
-  - [Main Screen](#main-screen)
-  - [Instructions](#instructions)
-  - [Step 1: Valence Diary](#step-1-valence-diary)
-  - [Step 2: Self Arousal Check](#step-2-self-arousal-check)
-  - [Emotional Board](#emotional-board)
-  - [Listen to the AI Voice Actor](#listen-to-the-ai-voice-actor)
-  - [Record Your Own Acting](#record-your-own-acting)
-  - [Achievement Grade](#achievement-grade)
-  - [Tips](#tips)
-  - [Emotion Card](#emotion-card)
-  - [Archive](#archive)
-- [🛠 Project Architecture](#-project-architecture)
-- [🔗 Link to Other Parts](#-link-to-other-parts)
-- [🤝 Contributors](#-contributors)
+  - [💡 Introduction](#-introduction)
+    - [Our Target SDG Goals 🎯](#our-target-sdg-goals-)
+  - [🤖 Demo Video](#-demo-video)
+  - [🔮 Features](#-features)
+    - [`1` READemo](#1-reademo)
+    - [`2` ACTion](#2-action)
+  - [🚀 Getting Started](#-getting-started)
+  - [🛳 User Guide](#-user-guide)
+    - [Walkthrough](#walkthrough)
+    - [Log in / Get Registered](#log-in--get-registered)
+    - [Main Screen](#main-screen)
+    - [Instructions](#instructions)
+    - [Step 1: Valence Diary](#step-1-valence-diary)
+    - [Step 2: Self Arousal Check](#step-2-self-arousal-check)
+    - [Emotional Board](#emotional-board)
+    - [Listen to the AI Voice Actor](#listen-to-the-ai-voice-actor)
+    - [Record Your Own Acting](#record-your-own-acting)
+    - [Achievement Grade](#achievement-grade)
+    - [Tips](#tips)
+    - [Emotion Card](#emotion-card)
+    - [Archive](#archive)
+  - [🛠 Project Architecture](#-project-architecture)
+  - [🔗 Link to Other Parts](#-link-to-other-parts)
+  - [🤝 Contributors](#-contributors)
 
 </details>
 
@@ -40,11 +40,11 @@
 Our problem statement is that modern people struggle to identify and express emotions, which can be developed into Alexithymia. _Alexithymia_ is the inability to identify and express or describe one's feelings accurately, leading to challenges in forming and maintaining relationships and making decisions. This emotional disconnect can result in mental health issues, maladaptive coping mechanisms, and a limited capacity for self-reflection and personal growth, impacting overall well-being and quality of life. According to research, about 10% of the general population experienced significant alexithymic traits. Despite its prevalence, Alexithymia is frequently misunderstood and often not recognized in clinical settings.
 
 ### Our Target SDG Goals 🎯
+
 <p align="center">
   <img src="https://github.com/smmin21/ACTemo-Google-Solution-Challenge-2024/assets/108079454/40cc149c-f559-47ff-992f-1428b81bc2ea" width="200"/>
   <img src="https://github.com/smmin21/ACTemo-Google-Solution-Challenge-2024/assets/108079454/cfede1db-999a-4f31-8e45-7cbc2264a29b" width="200"/>
 </p>
-
 
 Our service aims to be an effective emotional training program, contributing to solving **SDG goals 3 and 4**.
 
@@ -52,7 +52,7 @@ Our service aims to be an effective emotional training program, contributing to 
 
 ## 🤖 Demo Video
 
-You can check out our demo video here: [ACTemo Demo Video](link)
+You can check out our demo video here: [ACTemo Demo Video](https://youtu.be/YuQ9yqUWuic?si=3Y_OhshFzP4zPTEH)
 
 <br>
 
@@ -81,7 +81,6 @@ These features work in tandem to provide users with a comprehensive platform for
 
 > [!IMPORTANT]  
 > Our application requires Internet connection and microphone permission to run properly.
-
 
 1. Download our APK file here: [Download APK](https://drive.google.com/file/d/1pwkNZ1bulcaN29_xPK10mmB-mE71A_07/view?usp=sharing)
 2. Run the downloaded file on your phone! ✨
