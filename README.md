@@ -10,8 +10,8 @@
     - [Our Target SDG Goals 🎯](#our-target-sdg-goals-)
   - [🤖 Demo Video](#-demo-video)
   - [🔮 Features](#-features)
-    - [`1` READemo](#1-reademo)
-    - [`2` ACTion](#2-action)
+      - [`1` READemo](#1-reademo)
+      - [`2` ACTion](#2-action)
   - [🚀 Getting Started](#-getting-started)
   - [🛳 User Guide](#-user-guide)
     - [Walkthrough](#walkthrough)
@@ -82,7 +82,7 @@ These features work in tandem to provide users with a comprehensive platform for
 > [!IMPORTANT]  
 > Our application requires Internet connection and microphone permission to run properly.
 
-1. Download our APK file here: [Download APK](https://drive.google.com/file/d/1pwkNZ1bulcaN29_xPK10mmB-mE71A_07/view?usp=sharing)
+1. Download our APK file here: [Download APK](https://drive.google.com/file/d/1oEts3hv7nJ2DG47pd74SbumLYYaGRr0v/view?usp=sharing)
 2. Run the downloaded file on your phone! ✨
 
 <br>
@@ -97,9 +97,9 @@ These features work in tandem to provide users with a comprehensive platform for
 
 ### Log in / Get Registered
 
-| Screen                                                                                                                                          | Guide                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| ----------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/smmin21/ACTemo-Google-Solution-Challenge-2024/assets/108079454/d093d0d5-fec6-4059-8e96-4e5105bca74c" width="250"/> | You can either log in with an existing account <br> or get registered to start using our services. <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+| Screen                                                                                                                                          | Guide                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| ----------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://github.com/smmin21/ACTemo-Google-Solution-Challenge-2024/assets/108079454/2f933a02-5342-40a3-a7c1-a9c9bc027854" width="250"/> | You can either log in with an existing account <br> or get registered to start using our services. You can also get started with Google Login. <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 
 ### Main Screen
 
@@ -176,12 +176,16 @@ These features work in tandem to provide users with a comprehensive platform for
 
 ![Project Architecture](https://github.com/smmin21/ACTemo-Google-Solution-Challenge-2024/assets/79392773/2829819b-5b76-42ee-b30d-c36e3e94bdec)
 
-Our app, **ACTemo**, is built on `Flutter` and leverages `Firebase`. It comprises two core features:
+Our app, **ACTemo**, is built on `Flutter` and leverages `Firebase` for user authentication. It comprises two core features:
 
 - **READemo**: This component analyzes textual diary entries using the `Gemini` API to understand the user's emotional state.
 - **ACTion**: Powered by custom PyTorch models, `speech-emotion-evaluation model` analyzes user speech to gauge emotional expression, focusing on aspects like pitch and tone.
 
 The AI models behind **ACTemo** are hosted on `Google Cloud Platform`, ensuring scalability and performance. Additionally, `Cloud Build` facilitates continuous integration and deployment, streamlining the development process.
+
+User registration is implemented through 1) `Firebase authentication` and 2) `Google Sign-In`.
+
+Users can also receive daily push notifications at 11 P.M. that prompt them to access the app and record their day there. This was implemented with `Firebase Cloud Messaging`.
 
 <br>
 
