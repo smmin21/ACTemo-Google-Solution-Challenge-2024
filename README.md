@@ -174,7 +174,7 @@ These features work in tandem to provide users with a comprehensive platform for
 > [!NOTE]
 > This architecture enables **ACTemo** to provide users with an enhanced experience in emotional recognition and expression.
 
-![Project Architecture](https://github.com/smmin21/ACTemo-Google-Solution-Challenge-2024/assets/79392773/2829819b-5b76-42ee-b30d-c36e3e94bdec)
+![Project Architecture](https://github.com/smmin21/ACTemo-Google-Solution-Challenge-2024/assets/79392773/c178c090-9a2a-4f91-9882-0558e0f7d73e)
 
 Our app, **ACTemo**, is built on `Flutter` and leverages `Firebase` for user authentication. It comprises two core features:
 
