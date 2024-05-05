@@ -194,7 +194,8 @@ Users can also receive daily push notifications at 11 P.M. that prompt them to a
 If you want to explore other parts of the project, feel free to navigate to:
 
 - [Frontend Development](https://github.com/e6d1fe/ACTemo-flutter.git): Explore the frontend development aspects of the project, including UI design and user interaction, implemented using Flutter.
-- [Server Development](https://github.com/smmin21/ACTemo-server): Explore the backend & model development aspects of the project, including instructions on how to run the server using Docker and making your very own request to the API server.
+- [Machine Learning Server Development](https://github.com/smmin21/ACTemo-server): Explore the model development aspects of the project, including instructions on how to run the server using Docker and making your very own request to our API server.
+- [Backend Development](https://github.com/smmin21/ACTemo-API-Server): Dive into the backend development aspects of the project, including API implementation and database management.
 
 <br>
 
