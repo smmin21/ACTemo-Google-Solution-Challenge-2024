@@ -56,7 +56,7 @@ You can check out our demo video here:
 
 - [ACTemo Demo Video](https://www.youtube.com/watch?v=dPe9Ym8i0yk)
 
-- [Resubmission Updated Demo Video (including protyping)](https://www.youtube.com/watch?v=rP7tY2kH824)
+- [Resubmission Updated Demo Video (include protyping)](https://www.youtube.com/watch?v=rP7tY2kH824)
 
 
 <br>
